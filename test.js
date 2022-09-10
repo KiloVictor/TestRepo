@@ -1,1 +1,1 @@
-document.body.innerHTML+="<img src='' onerror='prompt(1)'>";
+alert(1);
